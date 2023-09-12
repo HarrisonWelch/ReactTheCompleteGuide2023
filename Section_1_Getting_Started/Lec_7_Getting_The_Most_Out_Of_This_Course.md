@@ -1,0 +1,1 @@
+# Lec 7 Getting The Most Out Of This Course
