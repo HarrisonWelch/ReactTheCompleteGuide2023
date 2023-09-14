@@ -48,7 +48,7 @@ You can see that tool in the `package.json` file
 
 Take a look at the runnning website, https://uc08fv.csb.app/, and then open the F12 inspect menu
 
-![react_script_inject image](https://github.com/HarrisonWelch/ReactTheCompleteGuide2023/Screenshots/react_script_inject.png)
+![react_script_inject image](https://github.com/HarrisonWelch/ReactTheCompleteGuide2023/blob/main/Screenshots/react_script_inject.png)
 
 This preview website is running on a dev server. Locally we had to run a local server with `npm start`. It does the same thing locally.
 
@@ -57,7 +57,7 @@ Why does it need to be transformed.
       * Uses this JSX code. HTML code which is written in JS files. Non-standard JS
       * Trying to put a div in the app.js will crash the site and say that JSX is not currently enabled.
 
-![jsx_not_enabled_hello image](https://github.com/HarrisonWelch/ReactTheCompleteGuide2023/Screenshots/jsx_not_enabled_hello.png)
+![jsx_not_enabled_hello image](https://github.com/HarrisonWelch/ReactTheCompleteGuide2023/blob/main/Screenshots/jsx_not_enabled_hello.png)
 
 2. Code will not be optimized for production (not minified)
       * Code is unreadable but valid JS in the end

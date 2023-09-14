@@ -17,6 +17,6 @@ onClick={() => setActiveContentIndex(3)}
 </button>
 ```
 
-![sandbox_4th_button image](https://github.com/HarrisonWelch/ReactTheCompleteGuide2023/Screenshots/sandbox_4th_button.png)
+![sandbox_4th_button image](https://github.com/HarrisonWelch/ReactTheCompleteGuide2023/blob/main/Screenshots/sandbox_4th_button.png)
 
 Finished React app: https://codesandbox.io/s/first-react-app-zj5cx1
