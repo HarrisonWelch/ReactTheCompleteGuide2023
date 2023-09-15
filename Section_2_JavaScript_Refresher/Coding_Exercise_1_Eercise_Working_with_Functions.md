@@ -7,9 +7,7 @@ Your task is to write a new function that should be named combine and have the f
 * Calculate a new value based on the three input values: a * b / c (if a, b & c are the input values)
 * Return the calculated result
 
-----
-
-Answer:
+## Answer:
 ```js
 function combine(a, b, c) {
     return a * b / c;
