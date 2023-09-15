@@ -1,0 +1,5 @@
+# Ignore the results of npm install.
+**/package-lock.json
+
+# I don't want to upload a copy of all my node modules...
+**/node_modules/
