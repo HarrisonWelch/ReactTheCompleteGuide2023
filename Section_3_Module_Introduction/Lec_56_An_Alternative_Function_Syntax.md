@@ -1,0 +1,3 @@
+# An Alternative Function Syntax
+
+
