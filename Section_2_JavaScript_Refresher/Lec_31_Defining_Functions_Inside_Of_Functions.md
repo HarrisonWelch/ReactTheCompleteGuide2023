@@ -5,7 +5,7 @@ May not make much sense in Vanilla JS, but will make sense in React
 ```js
 function init() {
   function greet() {
-    console.log("hi!");
+    console.log("Hi!");
   }
 
   greet();
@@ -18,5 +18,5 @@ init();
 
 Output
 ```
-hi!
+Hi!
 ```
