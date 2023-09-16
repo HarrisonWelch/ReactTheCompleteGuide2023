@@ -39,3 +39,5 @@ Probably not code we would like to write
 So we get the best of both worlds. Code that runs in the browser and code that is easier to write.
 
 We write the JSX that is transformed behind the scenes.
+
+![sources_react_init image](https://github.com/HarrisonWelch/ReactTheCompleteGuide2023/blob/main/Screenshots/sources_react_init.png)
