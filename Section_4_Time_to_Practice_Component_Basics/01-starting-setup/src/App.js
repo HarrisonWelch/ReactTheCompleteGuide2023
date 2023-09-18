@@ -29,7 +29,7 @@ function App() {
   ];
   return (
     <div>
-      <Header image={keyConceptsImage}/>
+      <Header />
       <Concepts concepts={concepts}/>
     </div>
   );
