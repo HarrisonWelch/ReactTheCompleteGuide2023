@@ -4,7 +4,7 @@ import stateImage from "./assets/images/state.png";
 import eventsImage from "./assets/images/events.png";
 
 import Header from "./components/Header/Header";
-import Concepts from "./components/Concepts/Concepts";
+import Concept from "./components/Concept/Concept";
 
 function App() {
   const concepts = [
@@ -30,7 +30,23 @@ function App() {
   return (
     <div>
       <Header />
-      <Concepts concepts={concepts}/>
+      <ul id="concepts">
+        <Concept
+          image={concepts[0].image}
+          title={concepts[0].title}
+          description={concepts[0].description}
+        />
+        <Concept
+          image={concepts[1].image}
+          title={concepts[1].title}
+          description={concepts[1].description}
+        />
+        <Concept
+          image={concepts[1].image}
+          title={concepts[1].title}
+          description={concepts[1].description}
+        />
+      </ul>
     </div>
   );
 }

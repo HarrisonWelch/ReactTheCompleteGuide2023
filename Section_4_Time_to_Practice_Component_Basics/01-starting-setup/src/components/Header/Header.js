@@ -1,5 +1,4 @@
 import keyConceptsImage from "../../assets/images/key-concepts.png";
-import "./Header.css";
 
 const Header = () => {
   return (
