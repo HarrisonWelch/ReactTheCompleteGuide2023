@@ -1,10 +1,3 @@
-# Repetition Manging User Input with State Two Way Binding
-
-So now lets make sure this player works.
-
-Start with features we already know via `useState`
-
-```js
 import { useState } from "react";
 
 export default function Player() {
@@ -30,8 +23,3 @@ export default function Player() {
     </section>
   );
 }
-```
-
-We have to write a lot of code to understand this text and keystroke.
-
-This is a great example for a component that can be simplified by using refs.
