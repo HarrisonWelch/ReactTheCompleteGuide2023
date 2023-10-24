@@ -13,10 +13,10 @@ function App() {
   });
 
   function handleChange(inputIdentifier, newValue) {
-    setUserInput((prevUserInput) => {
+    setUserInput((prevUserInput) => { 
       return {
         ...prevUserInput,
-        [inputIdentifier]: newValue,
+        [inputIdentifier]: +newValue,
       };
     });
   }

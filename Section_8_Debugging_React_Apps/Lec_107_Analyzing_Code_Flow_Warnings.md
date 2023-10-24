@@ -2,6 +2,8 @@
 
 Could read "valueEndOfYear" property. Seems to be undefinded
 
+![106_error image](https://github.com/HarrisonWelch/ReactTheCompleteGuide2023/blob/main/Screenshots/106_error.png)
+
 The problem is in the `results` array. if that is empty we can't access the first element with `[0]`.
 
 Results.jsx
